@@ -1,0 +1,10 @@
+# Ignore model files
+Models/*.pkl
+Models/*.json
+*.csv
+# Ignore virtual environment
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.csv
